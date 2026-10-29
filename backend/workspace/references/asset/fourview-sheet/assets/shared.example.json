@@ -1,0 +1,14 @@
+{
+  "_说明": "批次共享段示例（沙猎部落 · 中亚杂胡）。同批所有角色共用此文件，保证族群/色板/风格跨图一致。角色卡片可覆盖其中任意项。",
+  "ETHNICITY_BLOCK": "Central Asian / Turkic / Sogdian Silk Road ethnic features—the historically accurate \"杂胡\" mixed-tribe peoples of the Sui-Tang frontier desert. Wide prominent cheekbones, deep-set almond-shaped eyes with monolid or low-fold (NOT round Western double-fold), black or very dark brown eyes, black hair, weathered tan-bronze skin from years of desert sun exposure with deep sun lines around the eyes, strong jawline, straight or slightly aquiline nose (the Sogdian merchant Silk Road profile), thick natural eyebrows.",
+  "COLOR_PALETTE": "Desert sand tan, deep burnt umber leather, aged bronze patina (Mecha Crimson Bronze #7A6845 + Aged Gold #846035) on the forearm sighting mechanism and finger claws, dried-blood-red tribal accent on cloth bindings. ALL materials weathered war-torn dust-coated, NOT clean NOT polished.",
+  "ETHNICITY_ANCHOR_NAME": "Central Asian Silk Road",
+  "REF_FILM_1": "《长安十二时辰》(The Longest Day in Chang'an, 2019) 西域狼卫",
+  "REF_FILM_1_ROLE": "Sui-Tang Silk Road frontier desert peoples ethnographic anchor",
+  "REF_FILM_2": "Mongol: The Rise of Genghis Khan (2007)",
+  "REF_FILM_2_ROLE": "Central Asian battle-hardened warrior physique and weathered features",
+  "NEG_ETHNICITY": "NOT pure Caucasian European face, NOT blonde or red or light brown hair, NOT blue or green or grey or hazel eyes, NOT pale fair Northern European skin, NOT thin pointed delicate Western nose, NOT round Western double-fold eyes, NOT pure Han Chinese face, NOT modern K-pop or Chinese drama actor aesthetic. MUST be Central Asian Turkic/Sogdian Silk Road mixed ethnicity.",
+  "NEG_AESTHETIC": "NOT precision cybernetic, NOT modern, NOT clean (war-torn salvage bronze only), NOT medieval European, NOT Ming-Qing imperial, NOT samurai, NOT cyberpunk neon, NOT steampunk Victorian, NOT photographic, NOT live-action photo, NOT 2D flat cel shading, NOT anime line art, NOT fantasy elf-archer aesthetic, NOT colorful saturated palette.",
+  "REF_WORK_3": "Monster Hunter Wilds desert hunter aesthetic",
+  "REF_WORK_3_ROLE": "for the tribal armor/weathered-leather DNA"
+}

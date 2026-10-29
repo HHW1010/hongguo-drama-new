@@ -1,0 +1,19 @@
+{
+  "_说明": "现代都市批次共享段。族群锚定从「中亚杂胡」切换为「现代中国人」，参考作品全部换成中国现实题材。供 LOCK-MAGE 中年男子等现代角色共用。",
+
+  "ETHNICITY_BLOCK": "Modern Chinese Han ethnicity, contemporary mainland Chinese urban working-class facial structure. Standard epicanthic-fold East Asian eye shape with monolid-to-low-fold upper lid crease, dark brown irises, straight dark eyebrows, broad flat cheekbones, moderately broad nose with rounded tip, naturally pale-to-medium warm skin tone with sun-weathering and minor outdoor grime, faint under-eye bags and nasolabial lines consistent with a man in his late thirties who does physical work and drives for a living. NOT a Eurasian mixed-look male model, NOT a Northern Chinese/Pinyin border-region face, NOT a Southern Cantonese/Chaozhou vendor stereotype. MUST read as an ordinary contemporary mainland Chinese man, mid-30s to early 40s.",
+
+  "COLOR_PALETTE": "Muted everyday urban palette — charcoal grey, faded indigo denim, dusty olive work jacket, off-white and heather grey cotton tee, worn brown leather belt, scuffed tan work boots, aged brass hardware on the key ring, mirrored sun visor on the cap. ALL materials laundered but lived-in, dust on the shoulders and cuffs, NOT clean NOT new NOT luxury-brand NOT fashion-editorial.",
+
+  "ETHNICITY_ANCHOR_NAME": "modern Chinese urban working-class",
+  "REF_FILM_1": "《钢的琴》(The Piano in a Steel Mill, 2010)",
+  "REF_FILM_1_ROLE": "northeastern Chinese blue-collar everyman physique and unpolished working-man face",
+  "REF_FILM_2": "《Hello!树先生》(Hello! Mr. Tree, 2011)",
+  "REF_FILM_2_ROLE": "modern northern Chinese rural-to-city working-class texture and weathered skin",
+  "REF_WORK_3": "Chinese urban workplace drama 《我的前半生》(My First Half Life, 2017)",
+  "REF_WORK_3_ROLE": "contemporary Chinese urban small-business middle-aged man — plain tidy casual dress, shrewd approachable face",
+
+  "NEG_ETHNICITY": "NOT a Caucasian European face, NOT blonde or red or light brown hair, NOT blue or green or grey or hazel eyes, NOT pale fair Northern European skin, NOT a thin pointed delicate Western nose, NOT round Western double-fold eyes, NOT a Central Asian / Turkic / Sogdian Silk Road face, NOT a Middle East or South Asian merchant face, NOT a Korean K-pop idol face, NOT a Japanese or Southeast Asian face, NOT a modern Chinese crime-drama slick-villain styling. MUST be an ordinary contemporary mainland Chinese man.",
+
+  "NEG_AESTHETIC": "NOT precision cybernetic, NOT modern sci-fi, NOT clean (lived-in workwear only), NOT ancient or historical costume, NOT Ming-Qing imperial, NOT samurai, NOT cyberpunk neon, NOT steampunk Victorian, NOT photographic, NOT live-action photo, NOT 2D flat cel shading, NOT anime line art, NOT kawaii, NOT aspirational luxury-advertising glamour, NOT heavily airbrushed plastic skin, NOT colorful saturated palette."
+}

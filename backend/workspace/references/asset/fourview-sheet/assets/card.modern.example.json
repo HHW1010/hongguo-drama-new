@@ -1,0 +1,58 @@
+{
+  "_说明": "角色卡片 —— LOCK-MAGE 中年男子（现代都市 · 开面包车的包工头/生意人）。",
+
+  "DOC_TITLE": "万物生 · LOCK-MAGE 中年男子《中年男子》默认形态四视图人设图 v1",
+  "FORMAT_INHERIT": "沿用沙猎部落四视图骨架：9:16竖版+4格不等大+正脸特写/侧脸特写/脖子以下/背面+single-side rim backlight。族群锚定由「中亚杂胡」切换为「现代中国人」，装备层改为现代民用道具。",
+  "ROLE_POSITION": "识别锚点：**35-40岁、中年男子、现代人装扮、开面包车**。功能：工程项目/运输生意上的中间人——开面包车接活、盯现场、算账、催款，是全剧连接“有钱人”和“干活人”的那一环。气质定位：精明世故但不油滑，是观众一眼能认出“这就是个做小生意的中年人”的脸。",
+  "QA_NOTES": "1. 族群准确——现代中国人（内地当代城市平民男性），不是欧美白人脸、不是中亚杂胡、不是韩剧/日剧男演员脸\n2. 9:16+4格不等大+最高分辨率\n3. 左下panel不能露脸\n4. 体型中等偏结实——不是壮汉不是瘦子不是发福老板\n5. 表情是“精明世故”——眼神里有算计和打量，但不是反派阴沉脸也不是憨厚笑面\n6. 短发+胡茬+微胖脸——和沙猎三人的长辫/马尾/长须完全区分\n7. 现代便装辨识锚点：翻领夹克/旧polo衫 + 面包车钥匙串（挂在腰带上）+ 反光面罩工帽 + 折叠工牌\n8. 不是精英商务男——不是西装三件套、不是名表名包、不是健身房肌肉\n9. 不是古风——没有长袍、没有发髻、没有冷兵器",
+
+  "GENDER": "male",
+  "HIS_HER": "his",
+  "GAZE_DESC": "steady shrewd appraising gaze toward camera — the calculating, street-smart look of a man quietly sizing up a customer, warm on the surface and calculating underneath",
+  "HEADWEAR_REST_STATE": "Reflective-brimmed work cap pushed back off the forehead, resting crown-first so the entire face, hairline and forehead are fully visible (in the field the cap is worn forward for sun and dust protection, but in this character sheet stance the cap is pushed back to show the face).",
+  "HAIR_PROFILE_SIGNATURE": "Short black hair, neatly trimmed on the sides, slightly longer and uneven on top from growing out between barber visits, a soft receding hairline at the temples",
+  "BEARD_PROFILE_SIGNATURE": "Two-day stubble, dark and patchy along the jaw and upper lip, clean-shaven chin and cheeks",
+  "BUILD_SILHOUETTE": "average slightly stocky",
+  "SIG_EQUIP_FRONT_VISIBLE": "worn leather belt at the waist with a ring of van keys and a folded work badge clipped to it, and a canvas crossbody bag strap running diagonally across the chest, and scuffed tan work boots visible at the hem",
+  "BACK_HEAD_FEATURE": "with short black hair, slightly receding at the temples",
+  "BRAID_LEN": "nape",
+  "HEADWEAR_BACK_STATE": "the reflective work cap sits pushed back on the crown of the head, adjustable strap and buckle visible",
+  "SIG_EQUIP_BACK_VISIBLE": "Worn canvas crossbody bag with a faded printed logo, hanging flat at the small of the back with the strap running across the shoulders",
+  "BACK_GEAR": "a folded blue-grey sun-fabric work jacket tied by its sleeves around the waist, hanging loose at the hip",
+
+  "ROLE_SENTENCE": "A Chinese man in his late thirties, a self-made small-time contractor and van owner who drives a beat-up microvan between job sites, carrying the paperwork, the phone calls and the hard bargaining that keeps the work moving",
+  "TRIBE_NAME": "",
+  "RANK_SENTENCE": "",
+  "AGE_RANGE": "35-40",
+  "AGE_DESC": "past the first youth, settled into the look of a man who has been earning since he was eighteen",
+  "BUILD_DESC": "Average slightly stocky build—softened middle, working forearms, a light paunch of long sit-down meals and truck-stop noodles, the frame of a man who hauls cargo and walks job sites, NOT bulky muscular, NOT bodybuilder, NOT obese, NOT skinny, NOT gaunt.",
+  "BUILD_ANALOGY": "a small contractor who drives his own van and loads it himself",
+
+  "HAIR_DESC": "Short black hair, neatly trimmed on the sides and back, slightly longer and uneven on top, a soft receding hairline at the temples. A little grey at the sideburns.",
+  "BEARD_DESC": "Two-day dark stubble along the jaw and upper lip, patchy where the blade skipped, chin and cheeks mostly clean-shaven. Not a full beard, not a goatee, not sculpted stubble.",
+  "SCARS_DESC": "A small old scar on the right eyebrow, a healed cut across the left knuckle of the right hand, faint sun-weather lines around the eyes and across the forehead, a smear of old engine grease that never fully washed off from the side of the right hand.",
+  "HEADWEAR_DESC": "Reflective-brimmed work cap in faded olive canvas with a sweat-stained adjustable strap, currently pushed back off the forehead (face fully uncovered for character sheet purposes). The cap is the type that pulls low over the eyes for sun and construction dust during work.",
+  "UPPER_BODY_DESC": "Faded charcoal-grey cotton blend work jacket, unbuttoned, sleeves pushed to the forearms, with a canvas crossbody bag strap running diagonally from the right shoulder to the left hip. Underneath a plain heather-grey cotton polo tee, collar slightly stretched.",
+  "SIG1_DESC": "A worn brown leather belt with a rectangular brass buckle at the waist, carrying a ring of three vehicle keys including one with a bright yellow plastic microvan key fob (this is the van he drives), a folded laminated work badge on a lanyard loop, and a small brass padlock key. All hardware dulled with daily handling, NOT clean NOT polished.",
+  "SIG2_DESC": "A battered black smartphone in a cracked transparent case, tucked into the left breast pocket with the screen edge showing, plus a stub of carpenter's pencil behind his right ear. The practical equipment of a man whose whole job is being reachable and taking notes.",
+  "LOWER_BODY_DESC": "Faded indigo denim work trousers, slightly baggy, with worn-out knees and dust on the thighs, a carpenter's loop hanging from the right pocket, and the canvas crossbody bag resting against the left hip.",
+  "PERSONAL_ITEMS": "SPARSE AND DOMESTIC—nothing that reads as a trophy. Instead a few worn personal anchors of an ordinary working life: a cheap wristwatch with a scuffed plastic band on the left wrist, one small lucky charm knotted onto the key ring, a faded photo of a child tucked into the wallet in his back pocket. These are the marks of a working contractor, not a decorated raider.",
+  "FOOTWEAR_DESC": "Scuffed tan leather work boots with a thick lugged sole, laced with frayed spare shoelace, cracked and dusty at the toes.",
+
+  "PRIMARY_WEAPON": "Not a weapon — a battered black smartphone in a cracked case, held in the right hand, plus a set of vehicle keys on the belt. The tools of the trade, not of combat.",
+  "SECONDARY_WEAPON": "A rolled-up blueprint tube and a battered canvas tool tote slung over the crossbody bag, carrying a spirit level, a folding ruler and a marker pen.",
+  "SIDEARM_WEAPON": "None. No blade, no firearm, no weapon of any kind — his authority is entirely social and financial.",
+
+  "WEIGHT_DISTRIBUTION": "evenly distributed with a slight forward lean on the left hip, the stance of a man who spends his days on his feet and never stands quite straight",
+  "POSE_ARM_NOTE": "Right hand down at his side holding the smartphone loosely, left hand near the belt touching the key ring, shoulders relaxed",
+  "TEMPERAMENT": "shrewd, sociable and unhurried — the composed warmth of a man who is always doing arithmetic behind a friendly face",
+  "POSE_ANALOGY": "The body language of a small businessman sizing up a deal while keeping the customer comfortable.",
+  "CONSISTENCY_LIST": "identical face structure (modern Chinese late-30s male), identical short black hair with receding temples, identical two-day stubble, identical work jacket over polo tee, identical belt with yellow-fob van keys and work badge, identical reflective work cap pushed back, identical canvas crossbody bag, identical sparse domestic anchors",
+
+  "TITLE_TEXT": "LOCK-MAGE · MIDDLE-AGED MAN — DEFAULT FORM CHARACTER SHEET",
+  "DETAIL_ENUM": "leather strap, key ring and yellow fob, brass buckle, canvas bag weave, boot lace, stub of pencil, work badge lanyard",
+
+  "NEG_BODY": "NOT bulky muscular, NOT bodybuilder, NOT obese, NOT skinny, NOT gaunt, NOT teenager, NOT young-looking (must read 35-40 with receding hairline, under-eye bags and sun lines), NOT a clean-shaven young face, NOT a groomed full beard, NOT a pot-bellied comic stereotype.",
+  "NEG_EQUIPMENT": "NOT a prosthetic limb replacement (no mechanical limbs, only wearable everyday gear), NOT any weapon (no blade, no firearm, no bow), NOT fantasy or historical equipment (no armor, no bronze machinery, no tribal ornaments), NOT the same equipment as the sand-hunter raiders (no headwrap, no bow, no quiver, no goggles, no mechanical vambrace), NOT chieftain-level brutalist trophy mass, NOT luxury-brand accessories (no designer watch, no expensive sunglasses, no business card case).",
+  "NEG_LAYOUT": "NOT 1:1 square aspect (must be vertical 9:16), NOT equal-sized 4 panels (top row smaller, bottom row larger), NOT face visible in bottom-left panel (face strictly cropped out at top of panel), NOT face covered by cap brim or hair in face close-up panels (cap pushed back, forehead and hairline fully visible), NOT colorful background (solid neutral light-warm-grey only), NOT soft even neutral lighting (must be single-side rim backlight only), NOT front light, NOT fill light, NOT any text other than the four panel labels and the title."
+}
